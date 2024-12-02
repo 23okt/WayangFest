@@ -1,6 +1,29 @@
-# way_to_ang
-
+#WayangFest
 A new Flutter project.
+
+**WayangFest** is a mobile application that brings Indonesia's traditional shadow puppet theater, _Wayang_, closer to enthusiasts and tourists. The app offers event information, locations, and schedules for _Wayang_ performances across the country, combining cultural preservation with modern technology.
+
+## Features
+
+- **Event Slider**: Highlights upcoming Wayang events in an engaging image carousel.
+- **Event List**: A detailed grid of Wayang events, complete with location, date, and brief descriptions.
+- **Responsive Design**: A smooth experience on mobile platforms, optimized for intuitive navigation.
+- **Event Recommendations**: Get personalized event suggestions.
+
+## Technologies Used
+
+- **Frontend**: Flutter
+- **State Management**: StateLess Widget and StateFull Widget
+- **Backend**: Dummy Data
+- **Styling**: Flutter recommendation from Dribble.com
+
+## Installation
+
+1. Clone the repository:
+   ```bash or terminal
+   git clone https://github.com/yourusername/WayangFest.git
+   ```
+2. Build this project
 
 ## Getting Started
 
